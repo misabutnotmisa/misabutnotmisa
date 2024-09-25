@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## hi, im misa!
+i am formerly known as Nexus, but feel free to call me what you want.
+i own project nexus, a website that was made for not getting little kids / annoying classmates into my games or tools i specifically made for my friends.
+i collab alot with Snakecodr11, check him out!
 <!--
 **misabutnotmisa/misabutnotmisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
